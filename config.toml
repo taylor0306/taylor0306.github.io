@@ -9,7 +9,7 @@ title = "Whatever you want"
 
 buildDrafts = false 
 #是否產生草稿(建議選否)
-theme="paperMod"
+theme="PaperMod"
 [[menu.main]]
 
 identifier = "tags"
